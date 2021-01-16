@@ -24,7 +24,7 @@
 - 🌱 I’m currently learning [Laravel](http://laravel.com)
 - 🤔 i'm looking a work freelance 
 - 💬  Ask me about (Wordpress or Symfony) or any tech related stuff.
-- 📫 How to reach me: [Instagram - @khadija_hr1](https://www.instagram.com/khadija_hr1/)
+- 📫 How to reach me: [Gmail - Kharmouche95@gmail.com](https://mail.google.com/mail/u/0/#inbox/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I spend almost 12 hours to developing to 6 Days of Week.
 
