@@ -1,5 +1,4 @@
-## I'm [Harmouche Khadija!] 👋
-
+## I'm [Harmouche Khadija!](http://tous-informatiques.blogspot.com/) 👋
 
 <a href="https://www.instagram.com/khadija_hr1/">
   <img align="left" alt="KhadijaHr Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -26,8 +25,8 @@
 - 🤔 i'm looking a work freelance 
 - 💬  Ask me about (Wordpress or Symfony) or any tech related stuff.
 - 📫 How to reach me: [Instagram - @khadija_hr1](https://www.instagram.com/khadija_hr1/)
-- 😄 Pronouns: She
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I spend almost 12 hours to developing to 6 Days of Week.
 
-[![Linkedin: khadija-harmouche](https://img.shields.io/badge/-KhadijaHarmouche-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khadija-harmouche/)
+[![Linkedin: khadija-harmouche](https://img.shields.io/badge/-KhadijaHarmouche-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khadija-harmouche/)](https://www.linkedin.com/in/khadija-harmouche/)
 [![GitHub khadijahr](https://img.shields.io/github/followers/khadijahr?label=follow&style=social)](https://github.com/khadijahr)
