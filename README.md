@@ -29,5 +29,5 @@
 - 😄 Pronouns: She
 - ⚡ Fun fact: I spend almost 12 hours to developing to 6 Days of Week.
 
-[![Linkedin: khadija-harmouche](https://img.shields.io/badge/-khadija-harmouche-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khadija-harmouche/)](https://www.linkedin.com/in/khadija-harmouche/)
+[![Linkedin: khadija-harmouche](https://img.shields.io/badge/-KhadijaHarmouche-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khadija-harmouche/)
 [![GitHub khadijahr](https://img.shields.io/github/followers/khadijahr?label=follow&style=social)](https://github.com/khadijahr)
