@@ -16,22 +16,11 @@
 
 ### Connect with me:
 
-
 [<img align="left" alt="KhadijaHr Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/khadija-harmouche)
-
-
-<a href="https://www.instagram.com/khadija_hr1">
-   <img align="left" alt="KhadijaHr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://github.com/khadijahr">
-  <img align="left" alt="KhadijaHr Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://web.facebook.com/khadija.har.1023">
-  <img align="left" alt="KhadijaHr Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCm_uf5HlW7EYO5M4kfYFCXA">
-  <img align="left" alt="KhadijaHr Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
+[<img align="left" alt="KhadijaHr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/khadija_hr1)
+[<img align="left" alt="KhadijaHr Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/khadijahr)
+[<img align="left" alt="KhadijaHr Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://web.facebook.com/khadija.har.1023)
+[<img align="left" alt="KhadijaHr Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCm_uf5HlW7EYO5M4kfYFCXA)
 
 <br />
 <br />
