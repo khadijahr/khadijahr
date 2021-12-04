@@ -1,7 +1,7 @@
 ### Hi there, I'm [Harmouche Khadija!](http://tous-informatiques.blogspot.com/) 👋
 
 
-<img src="https://github.com/Vanleen/Vanleen/blob/main/img/header.png" alt="banner that says I am Vanilda VASCONCELOS - web developer & programmeur - image of computer and hands on it.">
+<img src="https://github.com/khadijahr/khadijahr/blob/main/img/girl_developer.png" alt="banner that says I am Khadija HARMOUCHE - web developer & programmeur - image of computer and hands on it.">
 
 ## I'm a Developer !! 
 
