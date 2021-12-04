@@ -1,5 +1,7 @@
 ### Hi there, I'm [Harmouche Khadija!](http://tous-informatiques.blogspot.com/) 👋
 
+<img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="100">
+
 ## I'm a Woman, Developer !! 
 
 
@@ -45,7 +47,13 @@
 
 <br/>
 <br/>
-<br/>
+
+### I’m currently Learning: <img src="https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif" width="50">
+♦ React 
+
+<br />
+
+
 
 [![Linkedin: khadija-harmouche](https://img.shields.io/badge/-KhadijaHarmouche-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khadija-harmouche/)](https://www.linkedin.com/in/khadija-harmouche/)
 [![GitHub khadijahr](https://img.shields.io/github/followers/khadijahr?label=follow&style=social)](https://github.com/khadijahr)
