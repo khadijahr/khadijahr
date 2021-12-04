@@ -9,7 +9,6 @@
 - 💜 I love coding & learning new stuff. 
 - 🌱 I’m currently learning [ReactJS](https://reactjs.org)
 - ⚡ Fun fact: I spend almost 12 hours to developing to 6 Days of Week.
-
 <br/>
 
 ### Connect with me:
@@ -19,7 +18,6 @@
 [<img align="left" alt="KhadijaHr Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/khadijahr)
 [<img align="left" alt="KhadijaHr Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://web.facebook.com/khadija.har.1023)
 [<img align="left" alt="KhadijaHr Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCm_uf5HlW7EYO5M4kfYFCXA)
-
 <br />
 <br />
 
@@ -40,13 +38,11 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
 <br/>
 <br/>
 
 ### Others: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 ♦ Photoshop
-
 <br />
 
 [![Linkedin: khadija-harmouche](https://img.shields.io/badge/-KhadijaHarmouche-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khadija-harmouche/)](https://www.linkedin.com/in/khadija-harmouche/)
