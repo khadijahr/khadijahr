@@ -44,12 +44,6 @@
 <br/>
 <br/>
 
-### I’m currently Learning: <img src="https://media.giphy.com/media/PictAsHElbb3oUnASQ/giphy.gif" width="50">
-♦ React 
-
-<br />
-
-
 
 [![Linkedin: khadija-harmouche](https://img.shields.io/badge/-KhadijaHarmouche-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khadija-harmouche/)](https://www.linkedin.com/in/khadija-harmouche/)
 [![GitHub khadijahr](https://img.shields.io/github/followers/khadijahr?label=follow&style=social)](https://github.com/khadijahr)
