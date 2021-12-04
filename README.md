@@ -1,13 +1,12 @@
 ### Hi there, I'm [Harmouche Khadija!](http://tous-informatiques.blogspot.com/) 👋
 
-<img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="100">
 
-## I'm a Woman, Developer !! 
+<img src="https://github.com/Vanleen/Vanleen/blob/main/img/header.png" alt="banner that says I am Vanilda VASCONCELOS - web developer & programmeur - image of computer and hands on it.">
 
-- 🔭 I’m currently working on [Wordpress](https://wordpress.org)
+## I'm a Developer !! 
+
+- 💜 I love coding & learning new stuff. 
 - 🌱 I’m currently learning [ReactJS](https://reactjs.org)
-- 💬  Ask me about (Wordpress or Symfony) or any tech related stuff.
-- 📫 How to reach me: [Gmail - Kharmouche95@gmail.com](https://mail.google.com/mail/u/0/#inbox/)
 - ⚡ Fun fact: I spend almost 12 hours to developing to 6 Days of Week.
 
 <br/>
@@ -44,6 +43,10 @@
 <br/>
 <br/>
 
+### Others: <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+♦ Photoshop
+
+<br />
 
 [![Linkedin: khadija-harmouche](https://img.shields.io/badge/-KhadijaHarmouche-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khadija-harmouche/)](https://www.linkedin.com/in/khadija-harmouche/)
 [![GitHub khadijahr](https://img.shields.io/github/followers/khadijahr?label=follow&style=social)](https://github.com/khadijahr)
