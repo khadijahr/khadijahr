@@ -4,14 +4,10 @@
 
 ## I'm a Woman, Developer !! 
 
-
-- 🔭 I’m currently working on [Symfony](https://symfony.com)
 - 🔭 I’m currently working on [Wordpress](https://wordpress.org)
-- 🌱 I’m currently learning [Laravel](http://laravel.com)
-- 🤔 i'm looking a work freelance 
+- 🌱 I’m currently learning [ReactJS](https://reactjs.org)
 - 💬  Ask me about (Wordpress or Symfony) or any tech related stuff.
 - 📫 How to reach me: [Gmail - Kharmouche95@gmail.com](https://mail.google.com/mail/u/0/#inbox/)
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I spend almost 12 hours to developing to 6 Days of Week.
 
 <br/>
