@@ -48,7 +48,7 @@
 <br/>
 <br/>
 
-### I’m currently Learning: <img src="https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif" width="50">
+### I’m currently Learning: <img src="https://media.giphy.com/media/PictAsHElbb3oUnASQ/giphy.gif" width="50">
 ♦ React 
 
 <br />
