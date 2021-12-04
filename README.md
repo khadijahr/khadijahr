@@ -1,8 +1,5 @@
 ### Hi there, I'm [Harmouche Khadija!](http://tous-informatiques.blogspot.com/) 👋
 
-<div style="text-align:center">
-  <img src="https://github.com/khadijahr/khadijahr/blob/main/img/girl_developer.jpg" alt="banner that says I am Khadija HARMOUCHE - web developer & programmeur width="100px">
-</div>  
 
 ## I'm a web Developer !! 
 
